@@ -1,0 +1,34 @@
+# Power BI
+*.pbix
+*.pbit
+*.pbids
+*.pbi
+*.pbi.resx
+*.pbi.tmp
+
+# Excel temporary files
+*.tmp
+*.~lock.*
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Python (if any)
+*.pyc
+__pycache__/
+*.pyo
+
+# PostgreSQL logs
+*.log
+*.pid
