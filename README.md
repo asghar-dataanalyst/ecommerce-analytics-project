@@ -50,6 +50,7 @@ This page answers: *"Who is leaving, and why?"*
 - **Cohort Retention:** A heatmap showing the dramatic drop in retention (2010: 50% → 2011: 12%).
 - **Customer Health Matrix:** A scatter plot (Top 500 spenders, Critical/High risk only) to visually prioritize who to save first.
 - **AI Decomposition Tree:** Automatically detects the root cause of high churn (Critical + Recency >242 days).
+> **Note:** The AI Decomposition Tree on this page is fully interactive. Hover over the visual and click the **Focus Mode** icon (diagonal arrows) to explore all drill-down paths and root causes in detail.
 
 ![Customer & Churn](screenshots/page2-customer-churn.png)
 
