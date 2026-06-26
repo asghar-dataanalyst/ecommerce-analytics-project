@@ -182,7 +182,7 @@ Hi, I'm **Asghar Hussain** – a data analyst passionate about turning complex d
 
 📊 **[Download Project Presentation (PDF)](docs/ecommerce-dashboard-walkthrough.pdf)**
 
----
 
-⭐ **If you found this project helpful or interesting, please star the repository!
-```
+
+⭐ If you found this project helpful or interesting, please star the repository!
+
