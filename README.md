@@ -2,7 +2,7 @@
 
 **An End-to-End E-Commerce Analytics Pipeline: Excel → PostgreSQL → Power BI**
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](screenshots/dashboard-overview.png)
 
 ---
 
@@ -119,7 +119,7 @@ ecommerce-analytics-project/
 │   └── ecommerce-eda-pivots.xlsx    # EDA with Pivot Tables & Charts
 │
 ├── screenshots/
-│   ├── dashboard_overview.png
+│   ├── dashboard-overview.png
 │   ├── page1-executive-summary.png
 │   ├── page2-customer-churn.png
 │   └── page3-product-affinity.png
