@@ -2,7 +2,7 @@
 
 **An End-to-End E-Commerce Analytics Pipeline: Excel → PostgreSQL → Power BI**
 
-![Dashboard Preview](screenshots/page1-executive-summary.png)
+![Dashboard Preview](screenshots/dashboard-overview.png)
 
 ---
 
