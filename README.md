@@ -177,7 +177,7 @@ If you want to run this project on your own machine, follow these steps:
 
 Hi, I'm **Asghar Hussain** – a data analyst passionate about turning complex data into clear, actionable business stories. I built this project to demonstrate my ability to handle the complete analytics lifecycle, from messy raw data to interactive executive dashboards.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/your-profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/asghar-hussain-dataanalyst) 
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/asghar-dataanalyst)
 
 📊 **[Download Project Presentation (PDF)](docs/ecommerce-dashboard-walkthrough.pdf)**
